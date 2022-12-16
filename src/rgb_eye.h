@@ -9,13 +9,13 @@
 class Eye {
   public:
     Eye             ();
+    void init       (uint8_t brightness);
     void dead       ();
     void friendly   ();
     void close      ();
     void open       ();
     void openToDead ();
     void line       ();
-    void init       (uint8_t brightness);
     void blink      ();
     void small      ();
 

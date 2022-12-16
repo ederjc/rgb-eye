@@ -1,0 +1,31 @@
+#######################################
+# Syntax Coloring Map
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+init	KEYWORD2
+dead	KEYWORD2
+friendly	KEYWORD2
+close	KEYWORD2
+open	KEYWORD2
+openToDead	KEYWORD2
+line	KEYWORD2
+blink	KEYWORD2
+small	KEYWORD2
+
+#######################################
+# Instances (KEYWORD2)
+#######################################
+
+Eye	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################

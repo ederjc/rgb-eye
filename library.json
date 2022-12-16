@@ -1,0 +1,13 @@
+{
+  "name": "RGB-Eye"
+  "keywords": "rgb, led, circle, eye",
+  "description": "Simple library to control round LED arrays to simulate robot eyes.",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/ederjc/rgb-eye.git"
+  },
+  "version": "0.1.0",
+  "frameworks": "arduino",
+  "platforms": "arduino"
+}
